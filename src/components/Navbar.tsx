@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Menu, X } from "lucide-react";
-import gloriaLogo from "@/assets/gloria-logo.png";
+import gloriaLogo from "@/assets/gloria-logo-light.png";
 
 const links = [
   { label: "Программы", href: "#programs" },
@@ -16,7 +16,7 @@ const Navbar = () => {
     <nav className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-md border-b border-border/50">
       <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
         <a href="#" className="flex items-center gap-2">
-          <img src={gloriaLogo} alt="Глория" className="h-10 w-10" />
+          <img src={gloriaLogo} alt="Глория" className="h-12 w-12" />
           <span className="font-heading text-2xl text-foreground">Глория</span>
         </a>
 

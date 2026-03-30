@@ -1,4 +1,4 @@
-import gloriaLogo from "@/assets/gloria-logo.png";
+import gloriaLogo from "@/assets/gloria-logo-light.png";
 
 const Footer = () => {
   return (
