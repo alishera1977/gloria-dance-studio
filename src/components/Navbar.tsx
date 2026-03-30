@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Menu, X } from "lucide-react";
-import gloriaLogo from "@/assets/gloria-logo.png";
+import gloriaLogo from "@/assets/gloria-logo-light.png";
 
 const links = [
   { label: "Программы", href: "#programs" },
