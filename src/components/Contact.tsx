@@ -21,7 +21,7 @@ const Contact = () => {
           </p>
 
           <motion.a
-            href="https://wa.me/"
+            href="https://t.me/Oxana_shc"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.05 }}
