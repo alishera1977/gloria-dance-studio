@@ -5,7 +5,7 @@ const Footer = () => {
     <footer className="py-12 px-6 border-t border-border">
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
         <div className="flex items-center gap-2">
-          <img src={gloriaLogo} alt="Глория" className="h-8 w-8" loading="lazy" />
+          <img src={gloriaLogo} alt="Глория" className="h-12 w-12" loading="lazy" />
           <p className="font-heading text-xl text-foreground">Глория</p>
         </div>
         <p className="font-body text-sm text-muted-foreground">
