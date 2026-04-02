@@ -42,7 +42,7 @@ const Hero = () => {
           transition={{ duration: 0.8, delay: 0.5 }}
           className="font-heading text-2xl md:text-3xl italic text-foreground/80 mb-4"
         >
-          Грация. Страсть. Уверенность.
+          Грация. Элегантность. Уверенность.
         </motion.p>
 
         <motion.p
