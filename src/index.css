@@ -70,17 +70,17 @@
 
 @layer utilities {
   .text-gradient-gold {
-    background: linear-gradient(135deg, hsl(46 100% 82%), hsl(46 100% 65%));
+    background: linear-gradient(135deg, hsl(30 100% 66%), hsl(30 100% 50%));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
   }
 
   .bg-gradient-dark {
-    background: linear-gradient(180deg, hsl(170 100% 10%), hsl(170 80% 6%));
+    background: linear-gradient(180deg, hsl(36 60% 95%), hsl(36 50% 90%));
   }
 
   .bg-gradient-card {
-    background: linear-gradient(135deg, hsl(170 60% 12%), hsl(170 50% 8%));
+    background: linear-gradient(135deg, hsl(36 50% 93%), hsl(36 40% 89%));
   }
 }
