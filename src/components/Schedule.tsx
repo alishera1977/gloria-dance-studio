@@ -21,7 +21,7 @@ const Schedule = () => {
           className="text-center mb-16"
         >
           <p className="font-body text-sm tracking-[0.3em] uppercase text-muted-foreground mb-4">
-            Когда мы танцуем
+            Расписание работы студии
           </p>
           <h2 className="font-heading text-5xl md:text-6xl font-light text-gradient-gold">
             Расписание
