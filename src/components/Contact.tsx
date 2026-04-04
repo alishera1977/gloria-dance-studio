@@ -16,8 +16,12 @@ const Contact = () => {
           <h2 className="font-heading text-5xl md:text-6xl font-light text-gradient-gold mb-8">
             Записаться
           </h2>
-          <p className="font-body text-muted-foreground text-lg mb-12 leading-relaxed">
+          <p className="font-body text-muted-foreground text-lg mb-8 leading-relaxed">
             Не просто шаги под музыку — это диалог без слов. Запишитесь на пробное занятие и почувствуйте магию бального танца.
+          </p>
+
+          <p className="font-body text-muted-foreground text-base mb-12">
+            📍 г. Новосибирск, ДК Прогресс, Красный проспект 167, офис 310
           </p>
 
           <motion.a
