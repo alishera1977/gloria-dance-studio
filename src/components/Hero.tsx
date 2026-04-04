@@ -40,18 +40,27 @@ const Hero = () => {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.5 }}
-          className="font-heading text-2xl md:text-3xl italic text-foreground/80 mb-4"
+          className="font-body text-base md:text-lg text-muted-foreground mb-6 max-w-2xl mx-auto"
         >
-          Грация. Элегантность. Уверенность.
+          Бальные танцы для детей и взрослых — это гармония движения, музыки и эмоций. Это танцы, сочетающие элегантность классики и энергетику современных ритмов: от плавного вальса до зажигательной латинской программы.
         </motion.p>
 
         <motion.p
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8, delay: 0.7 }}
+          transition={{ duration: 0.8, delay: 0.65 }}
+          className="font-heading text-2xl md:text-3xl italic text-foreground/80 mb-4"
+        >
+          Откройте для себя искусство бального танца
+        </motion.p>
+
+        <motion.p
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.8, delay: 0.8 }}
           className="font-body text-lg text-muted-foreground mb-12 max-w-xl mx-auto"
         >
-          Бальные танцы для детей и взрослых. Превратите свою жизнь в вальс.
+          Мы уже ждём вас на паркете —
         </motion.p>
 
         <motion.a
