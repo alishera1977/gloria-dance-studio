@@ -1,8 +1,12 @@
 import { motion } from "framer-motion";
 
 const scheduleData = [
-  { days: "Понедельник · Среда · Пятница", time: "17:00 — 20:00" },
-  { days: "Вторник · Четверг", time: "18:00 — 20:00" },
+  { days: "Понедельник", time: "16:00 — 21:00" },
+  { days: "Вторник", time: "16:00 — 21:00" },
+  { days: "Среда", time: "16:00 — 21:00" },
+  { days: "Четверг", time: "16:00 — 21:00" },
+  { days: "Пятница", time: "16:00 — 21:00" },
+  { days: "Суббота", time: "10:00 — 14:00" },
 ];
 
 const Schedule = () => {
@@ -17,7 +21,7 @@ const Schedule = () => {
           className="text-center mb-16"
         >
           <p className="font-body text-sm tracking-[0.3em] uppercase text-muted-foreground mb-4">
-            Когда мы танцуем
+            Расписание работы студии
           </p>
           <h2 className="font-heading text-5xl md:text-6xl font-light text-gradient-gold">
             Расписание
