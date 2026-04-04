@@ -7,6 +7,9 @@ const Footer = () => {
         <div className="flex items-center">
           <img src={gloriaLogo} alt="Глория" className="h-14 w-auto object-contain" loading="lazy" />
         </div>
+        <p className="font-body text-sm text-muted-foreground text-center">
+          г. Новосибирск, ДК Прогресс, Красный проспект 167, офис 310
+        </p>
         <p className="font-body text-sm text-muted-foreground">
           © {new Date().getFullYear()} Танцевальная студия Глория. Все права защищены.
         </p>
