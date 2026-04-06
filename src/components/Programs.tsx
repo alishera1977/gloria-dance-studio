@@ -6,7 +6,7 @@ import soloLadyImage from "@/assets/solo-lady.jpg";
 
 const programs = [
   {
-    title: "Дети пары",
+    title: "Дети",
     subtitle: "4–6 лет",
     description: "Детская программа танцев, развитие координации, пластики, чувства ритма.",
     image: kidsImage,
