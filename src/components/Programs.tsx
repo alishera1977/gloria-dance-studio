@@ -2,6 +2,7 @@ import { motion } from "framer-motion";
 import kidsImage from "@/assets/kids-dance.jpg";
 import soloImage from "@/assets/solo-dance.jpg";
 import couplesImage from "@/assets/couples-dance.jpg";
+import soloLadyImage from "@/assets/solo-lady.jpg";
 
 const programs = [
   {
