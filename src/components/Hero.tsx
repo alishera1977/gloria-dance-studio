@@ -64,7 +64,7 @@ const Hero = () => {
         </motion.p>
 
         <motion.a
-          href="https://t.me/Oxana_shc"
+          href="https://vk.com/id640837880"
           target="_blank"
           rel="noopener noreferrer"
           initial={{ opacity: 0, y: 20 }}
