@@ -2,6 +2,7 @@ import { motion } from "framer-motion";
 import kidsImage from "@/assets/kids-dance.jpg";
 import soloImage from "@/assets/solo-dance.jpg";
 import couplesImage from "@/assets/couples-dance.jpg";
+import soloLadyImage from "@/assets/solo-lady.jpg";
 
 const programs = [
   {
@@ -32,7 +33,7 @@ const programs = [
     title: "Соло леди",
     subtitle: "35+",
     description: "Хотите королевскую осанку? Выходите на паркет. Превратите каждый день в танец — грация, уверенность, свобода. Для женщин, которые хотят раскрыть новые грани своей женственности, обрести элегантность и уверенность в движении.",
-    image: couplesImage,
+    image: soloLadyImage,
     price: "3 500 ₽",
     sessions: "8 занятий в месяц",
   },
