@@ -17,7 +17,7 @@ const programs = [
     title: "Дети пары",
     subtitle: "7–9 лет",
     description: "Воспитываем чемпионов. С нуля до первого кубка. Ваш ребёнок научится побеждать — и не только на паркете.",
-    image: kidsImage,
+    image: couplesImage,
     price: "3 500 ₽",
     sessions: "8 занятий в месяц",
   },
