@@ -5,7 +5,6 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-base: "/gloria-dance-studio/",
   server: {
     host: "::",
     port: 8080,
