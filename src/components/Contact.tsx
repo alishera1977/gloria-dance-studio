@@ -20,8 +20,11 @@ const Contact = () => {
             Не просто шаги под музыку — это диалог без слов. Запишитесь на пробное занятие и почувствуйте магию бального танца.
           </p>
 
-          <p className="font-body text-muted-foreground text-base mb-12">
+          <p className="font-body text-muted-foreground text-base mb-4">
             📍 г. Новосибирск, ДК Прогресс, Красный проспект 167, офис 310
+          </p>
+          <p className="font-body text-muted-foreground text-base mb-12">
+            📞 <a href="tel:+79139447232" className="hover:text-primary transition-colors">+7 913 944 72 32</a>
           </p>
 
           <motion.a
